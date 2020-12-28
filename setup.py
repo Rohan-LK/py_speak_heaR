@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="py_speak_heAR",
-    version="0.0.3",
+    version="0.0.1",
     author="Rohan Lal Kshetry",
     author_email="rlkshetry95@gmail.com",
     description="speak and take command functions",
@@ -13,6 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Rohan-LK/py_speak_heaR.git",
     packages=setuptools.find_packages(),
+    py_modules = ['py_speak_heAR'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
