@@ -1,0 +1,10 @@
+README.md
+setup.py
+listenRspeAk.egg-info/PKG-INFO
+listenRspeAk.egg-info/SOURCES.txt
+listenRspeAk.egg-info/dependency_links.txt
+listenRspeAk.egg-info/top_level.txt
+listenRspeak.egg-info/PKG-INFO
+listenRspeak.egg-info/SOURCES.txt
+listenRspeak.egg-info/dependency_links.txt
+listenRspeak.egg-info/top_level.txt
